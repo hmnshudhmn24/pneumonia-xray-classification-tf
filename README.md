@@ -43,6 +43,3 @@ chest_xray/
         NORMAL/
         PNEUMONIA/
 ```
-
-## 🧑‍💻 Author
-Developed using TensorFlow 2.x and EfficientNet.
